@@ -1,2 +1,8 @@
-# Jenkinexample1
-welocme to jenkins
+public class Test
+{
+    public static void main(String[] args)
+   {
+   System.out.println("total");
+  }
+}
+
