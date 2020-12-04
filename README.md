@@ -4,8 +4,8 @@ public class Test
    {
    System.out.println("total");
    System.out.println("new");
-   System.out.println("yes working or not");
-   
+   System.out.println("yes working ");
+   System.out.println("s");
   }
 }
 
